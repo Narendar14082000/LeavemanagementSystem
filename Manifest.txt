@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/log4j-core-2.20.0.jar
+Main-Class: com.enh.lmsclient.Main
+
+
